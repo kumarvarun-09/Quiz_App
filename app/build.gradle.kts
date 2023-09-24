@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.quizapp"
+    namespace = "com.comiccoder.quizapp"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.quizapp"
+        applicationId = "com.comiccoder.quizapp"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
